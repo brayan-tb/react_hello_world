@@ -1,7 +1,7 @@
 import React from "react";
 import GetDate from "../date/Date";
 
-const Card = () => {
+const Card1 = () => {
   return (
     <li>
       <div className="card">
@@ -17,4 +17,4 @@ const Card = () => {
   );
 };
 
-export default Card;
+export default Card1;
