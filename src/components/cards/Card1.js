@@ -8,7 +8,7 @@ const Card1 = () => {
         <div className="item-details">
             <div className="item">1</div>
             <div className="box">
-                    <span>Hello World! 🌎</span>
+                    <span className="text3">Hello World! 🌎</span>
                     <span className="time">{GetDate()}</span>
                 </div>
             </div>

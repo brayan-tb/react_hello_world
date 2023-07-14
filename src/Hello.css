@@ -16,6 +16,7 @@
 .time {
     font-size: 14px;
     color: #ccc;
+    font-style: italic;
 }
 
 .list-item {
@@ -70,4 +71,21 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.text2{
+    font-weight: bold;
+    color: #4caf50;
+    font-style: italic;
+}
+
+.text3{
+    font-weight: bold;
+    color: red;
+    font-style: oblique;
+}
+
+.text4{
+    font-weight: bold;
+    color: yellow !important;
 }
